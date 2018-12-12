@@ -1,0 +1,8 @@
+:~/validation/launch-scripts$ node ParseSnapshot.js https://telos.eosphere.io ./eosphere-telos-snapshot-master.csv --validate true
+Parsing: "./eosphere-telos-snapshot-master.csv"
+Validating all accounts Thu Dec 13 2018 06:03:31 GMT+1100 (Australian Eastern Daylight Time)
+0.6000+0.6000+0.1000=1.3000 and expected 1.3000 for account hezdsmrxhage
+Checked 163000 out of 163930 accounts
+Validating complete Thu Dec 13 2018 06:24:43 GMT+1100 (Australian Eastern Daylight Time)
+Account count: 163930
+Total balance: 178473249.3125
